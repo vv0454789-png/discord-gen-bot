@@ -9,7 +9,7 @@
   "author": "Wntd",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^7.4.1",
+    "better-sqlite3": "^11.3.0",
     "discord": "^0.8.2",
     "discord-buttons": "^4.0.0",
     "discord.js": "^12.5.3",
